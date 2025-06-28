@@ -1,6 +1,6 @@
 # Anand
 
-# Hi 👋! I'm Anand Prakash
+# Hi 👋 I'm Anand Prakash
 
 🎓 I'm a Computer Science and Engineering student   
 💻 I'm passionate about Frontend Development and love building interactive and user-friendly web applications.  
